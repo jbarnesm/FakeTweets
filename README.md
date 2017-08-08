@@ -2,6 +2,7 @@
 The goal of this project is to create a program that estimates the likelihood a twitter account is run by a bot.
 
 8/8/2017 - Beginning ideas
+
 One of the difficulties of this project is the fact that Twitter bots are used for many different purposes, and, as a result, can look very
 different from one another. For instance, a Twitter bot that is used to retweet news articles looks very different from a bot used to
 inflate a user's follower count. A one-size-fits-all approach is therefore unwise, so I plan to implement different standards for
