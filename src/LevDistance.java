@@ -25,10 +25,10 @@ public class LevDistance {
     	for (int i = 0; i < args.size(); i++) {
     		  for (int j = i+1; j < args.size(); j++) {
     		    avg = avg + distance(args.get(i),args.get(j));
-    		    System.out.println(args.get(i)+", "+args.get(j));
+    		    //System.out.println(args.get(i)+", "+args.get(j));
     		  }
     		}
-    	return avg/args.size();
+    	return avg/(args.size()*args.size());
     }
 
 }

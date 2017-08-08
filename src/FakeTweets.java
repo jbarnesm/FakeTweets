@@ -1,6 +1,8 @@
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintStream;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -24,14 +26,25 @@ public class FakeTweets {
 
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-		
+		Scanner scan = new Scanner(System.in);		
 		//The following will be used to check custom accounts...
-		//System.out.println("Welcome to FakeTweets! Please enter the account you'd like to examine:");
-		//userName = scan.nextLine();
+		System.out.println("Welcome to FakeTweets! Please enter the account you'd like to examine:");
+		userName = scan.nextLine();
 		//userName = "congressedits";
-		//fetchUserTweets(userName, 100);
+		fetchUserTweets(userName, 100);
+		DateFormat df = new SimpleDateFormat("MM/dd/yyyy");		
+		System.out.println(userName);
+		System.out.println(df.format(createdate));
+		System.out.println("followers: ");
+		System.out.println(followersCount);
+		System.out.println("following: ");
+		System.out.println(followingCount);
+		for(String tweet : tweets) {
+			System.out.println(tweet);
+		}
 		
+		//tweets.add("sdf dsfdfwerferyr dfgkghgscvcb vbdfhrtrfzx sdf wercb rytuuou fdfbcb");
+		//tweets.add("Explainer: What is artificial intelligence? https://t.co/ztrO8KRX6g via @abcnews #AI");
 		System.out.println(LevDistance.getAvgDistance(tweets));
 		
 
