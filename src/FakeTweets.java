@@ -3,7 +3,7 @@ public class FakeTweets {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("I EXIST");
+		System.out.println("I Still exit");
 
 	}
 
