@@ -1,5 +1,5 @@
 # FakeTweets
-The goal of this project is to create a program that estimates, with reasonable success, the likelihood a twitter account is run by a bot.
+The goal of this project is to create a program that estimates the likelihood a twitter account is run by a bot.
 
 8/8/2017 - Beginning ideas
 
