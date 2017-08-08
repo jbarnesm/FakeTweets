@@ -26,7 +26,7 @@ public class FakeTweets {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		
-		//The following will be used to check custom accounts
+		//The following will be used to check custom accounts...
 		//System.out.println("Welcome to FakeTweets! Please enter the account you'd like to examine:");
 		//userName = scan.nextLine();
 		userName = "congressedits";
