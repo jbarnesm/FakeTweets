@@ -29,8 +29,10 @@ public class FakeTweets {
 		//The following will be used to check custom accounts...
 		//System.out.println("Welcome to FakeTweets! Please enter the account you'd like to examine:");
 		//userName = scan.nextLine();
-		userName = "congressedits";
-		fetchUserTweets(userName, 100);
+		//userName = "congressedits";
+		//fetchUserTweets(userName, 100);
+		
+		System.out.println(LevDistance.getAvgDistance(tweets));
 		
 
 	}
@@ -42,7 +44,7 @@ public class FakeTweets {
 			createdate = user.getCreatedAt();
 			followersCount = user.getFollowersCount();
 			followingCount = user.getFriendsCount();
-			
+			//Fetch tweets
 			Paging page = new Paging(1, Constants.PAGE_SIZE);
 			for (int p = 1; p <= Math.ceil((double) numTweets / Constants.PAGE_SIZE); p++) {
 				page.setPage(p);
@@ -51,7 +53,6 @@ public class FakeTweets {
 			}     
 			int numberTweets = tweets.size();			
 		}
-		
 		catch (TwitterException e) {
 			System.out.println("Unable to retrieve tweets from Twitter for " + userName + " at this time.");
 			System.out.println(e.getMessage());
