@@ -4,6 +4,7 @@ public class Tweet {
 	protected String text;
 	protected Date date;
 	protected Boolean isRetweet;
+	protected Boolean isReply;
 	protected Boolean containsLink;
 	protected int numLikes;
 	protected int numRetweets;
@@ -11,4 +12,6 @@ public class Tweet {
 	public Tweet(String text) {
 		this.text = text;
 	}
+	
+
 }

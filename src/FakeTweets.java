@@ -24,6 +24,8 @@ public class FakeTweets {
 	private static Date createdate;
 	private static int followersCount;
 	private static int followingCount;
+	
+	protected static int numReplies = 0;
 
 
 
@@ -59,10 +61,12 @@ public class FakeTweets {
 	}
 
 	private static void processTweets() {
-		// TODO Auto-generated method stub
+		// sdfsdf
 
 
 	}
+	
+	
 
 	private static void fetchUserTweets(String userName, int numTweets) {
 		try {
@@ -82,6 +86,7 @@ public class FakeTweets {
 					temp.numRetweets = status.getRetweetCount();
 					temp.isRetweet = status.isRetweet();
 					temp.containsLink = temp.text.contains("https://t.co/");
+					
 					tweets.add(temp);
 				}
 			}     

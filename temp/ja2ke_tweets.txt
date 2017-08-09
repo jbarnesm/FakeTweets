@@ -1,0 +1,115 @@
+Number of tweets = 100
+@vectorpoem Noting that "The" prefix applied even in 2016. Was this tweet part of a Twin Peaks The Return ARG? 08/09/2017|01:58|5|0|false|false
+@madswinther @DuncanFyfe If it isn't my favorite it's close. (Sam & Max The Devil's Playhouse is very high up there for me.) 08/08/2017|18:47|0|0|false|false
+While you're here, you should read @DuncanFyfe's exploration of the 19 genders featured in Baldur's Gate source code https://t.co/VSuebNjYWn 08/08/2017|18:19|46|24|false|true
+@Jonat2Go BUT we are talking about fixing that again. 08/08/2017|18:09|0|0|false|false
+@Jonat2Go ...on PS4 I believe that the bee trophy is still tied to dialogue (henry saying "ow") and not the sting itself so its not in Free Roam.) 08/08/2017|18:08|0|0|false|false
+@Jonat2Go (The first bug I'm not sure how they didnt catch - the bee sting gave the turtle trophy at launch, and was fixed, but... 08/08/2017|18:08|0|0|false|false
+@Jonat2Go I was wrong, you were correct. We fixed one bug involving the bee sting trophy that was way more egregious, but the second fix isnt on PS4 08/08/2017|18:07|0|0|false|false
+I love Tales From The Borderlands and am very happy that we were able to publish this oral history of its creation https://t.co/0vOMkB66fx 08/08/2017|17:29|141|38|false|true
+RT @camposanto: Nobody asked, but we answered: What's it like to drink a human toe? https://t.co/JftEnOX8cS 08/08/2017|17:12|0|6|true|true
+RT @camposanto: We had @DuncanFyfe compile the oral history of Tales from the Borderlands: https://t.co/nFOrZrOHmK 08/08/2017|17:11|0|9|true|true
+@stevenf Brøderdome 08/08/2017|13:41|0|0|false|false
+@alexpalex @stevenf it's yours 08/08/2017|13:38|0|0|false|false
+@stevenf or one step further: a web interface for the print shop (or running web based apple II emulators & injecting a charge screen to print/ship) 08/08/2017|13:33|2|0|false|false
+@stevenf this could be your new etsy business btw 08/08/2017|13:32|1|0|false|false
+RT @asym: West of Loathing out on Steam THURSDAY!
+
+https://t.co/Hty6rRrBds
+
+Soon you too can scratch your butt while you watch arcane ritua… 08/08/2017|13:21|0|52|true|true
+RT @DuncanFyfe: of course I'm spending the last days before my wedding pixelating an image of a severed human toe for @camposanto 08/08/2017|13:20|0|2|true|false
+@mrgan @patr1ck time to retire this online persona 08/08/2017|13:08|1|0|false|false
+@cabel @shoomlah yeah I read it as "secret tip for bald white men who own companies and were involved in the creation of firewatch" geez pretty specific :( 08/08/2017|13:02|5|0|false|false
+@hoskingc That's a good clarification.
+
+Also it sucks a lot. 08/08/2017|01:28|1|0|false|false
+Also, those teachers were so good! I can't guess at their career paths, but it was inspiring to learn how computers really worked from them. 08/08/2017|01:19|12|1|false|false
+The only two programming classes I ever took in school were 90+% men, taught by women close to my grandma's age. https://t.co/od1aIPumxS 08/08/2017|01:16|34|2|false|true
+RT @ThisSummerBot: Mark your calendar for this summer... https://t.co/uV31F4c9pl 08/08/2017|00:47|0|4|true|true
+RT @mossmouth: What is #UFO50? UFO 50 is a collection of 50 games from 5 indie game makers: https://t.co/DnGQLDu9wB Coming in 2018. https:/… 08/08/2017|00:20|0|638|true|true
+RT @UnburntWitch: pleasant reminder that a scallop swimming is like the funniest shit ever https://t.co/e2eraNIx2B 08/08/2017|00:17|0|87|true|true
+@bfod ...to give the very soft impression of there being shading happening there. 08/07/2017|22:18|1|0|false|false
+@bfod We had a tool to make custom skybox gradients per time of day & did things like crank the "ground" color in the gradient way dark/saturated 08/07/2017|22:17|1|0|false|false
+@bfod @increpare That games look was flat enough that we were doing well with just realtime skybox driven ambience, the sun shadow, SSAO and LUTs. 08/07/2017|22:15|0|0|false|false
+@bfod @increpare Nope, we didn't bake shit on Firewatch. We used Marmoset Skyshop (the only real solution out there when we started on Unity 4) 08/07/2017|22:14|2|0|false|false
+@bfod @increpare (I know this is unrelated to the original question. It's just one more "Unity baked lighting proclivities" tendril.) 08/07/2017|22:07|0|0|false|false
+@bfod @increpare That also won't work if you're using enlighten for precomputed realtime GI. That baked enlighten data comes from the active scene only. (?) 08/07/2017|22:05|1|0|false|false
+RT @bfod: is there any way to make unity’s lightmapper see a different colored skybox in different world positions? What do people do about… 08/07/2017|22:01|0|1|true|false
+RT @SamuelWRoberts: tfw you wonder who the other person in the google doc is and it turns out you've got the article open in two tabs https… 08/07/2017|19:49|0|1366|true|false
+RT @jennschiffer: i love this flyer https://t.co/KM6OBF3bzE 08/07/2017|19:14|0|12|true|true
+@metalband_exe this is a good font for you 08/07/2017|19:01|0|0|false|false
+@castpixel @zusty @fullbright ahhh rad that portrait is so great 08/07/2017|18:51|1|0|false|false
+RT @DuncanFyfe: New @camposanto Quarterly Review tmrw, including i) the oral history of Tales from the Borderlands, and ii) what's it like… 08/07/2017|18:34|0|3|true|false
+RT @camposanto: Craving news about our games? 
+Fiending for our award winning* literary journal?
+Subscribe to both today!
+https://t.co/Gc0l… 08/07/2017|18:34|0|15|true|true
+RT @TwoHeadlines: 'Game of Thrones' finally unites Daenerys Targaryen and Elon Musk, and a scene-stealing character gets the last word 08/07/2017|17:10|0|26|true|false
+RT @DoubleFine: All 3 seasons of the Amnesia Fortnight series are now available on Steam, along with all 13 prototypes!  https://t.co/fiWWp… 08/07/2017|14:47|0|20|true|true
+RT @MajusArts: Experimenting with a one button mechanic. #sayNoMore https://t.co/FiKashySez 08/07/2017|13:55|0|57|true|true
+@dosnostalgic Uh pretty sure James has always been cool. That's canon. 08/07/2017|01:27|6|0|false|false
+RT @J_Rosenfield: Old Twin Peaks aesthetic vs New Twin Peaks aesthetic https://t.co/faJsyPjVKx 08/07/2017|01:08|0|3323|true|true
+RT @peaksrewatch: I can only assume this is what Chris looked like 20 seconds after it cut to the Roadhouse. - Jake https://t.co/GWRd1TDkNz 08/07/2017|00:38|0|6|true|true
+They did it. They brought back You And I. They actually did it. 08/07/2017|00:17|61|4|false|false
+RT @peaksrewatch: Discuss Twin Peaks Part 13 in our forum! Tonight's thread is fired up and ready to go: https://t.co/J0BNeUpQJP https://t.… 08/06/2017|22:46|0|1|true|true
+@BooDooPerson That tie is so fucking long when it's hanging up in the closet. 08/06/2017|20:52|0|0|false|false
+RT @ja2ke: That time the UI went insane and drew over itself on the same day you found a bunch of royalty free music tapes https://t.co/swa… 08/06/2017|16:11|0|9|true|true
+RT @craigmod: (also forged in the fires of usability mordor, the cauldron of mt ux doom, wear the ring, but only if you know which way is u… 08/06/2017|15:50|0|489|true|false
+@bburbank oh no I like it :( splits the difference between coke and diet coke which is apparently what I crave. 08/06/2017|15:47|1|0|false|false
+RT @ja2ke: @alexgriendling  https://t.co/K7OvUZdHVy 08/06/2017|09:09|0|1|true|true
+RT @ja2ke: A reminder- the Designer Notes podcast by @SorenJohnson & @ADAMATOMIC is a treasure trove of longform dev interviews https://t.c… 08/06/2017|09:07|0|26|true|false
+@banjoses @fullbright Royalty-free stock photos show me this is at least possible, if unadvisible. https://t.co/Bw98IhgC7S 08/06/2017|09:02|1|0|false|true
+It's cool to see people in a big games subreddit asking and explaining basics of path tracing, baked lighting, etc, for curious non-devs. 08/06/2017|08:30|13|0|false|false
+If you want to start to know some very basic fundamentals of how games render watch this & wade through the comments https://t.co/TPw7tbNSoY 08/06/2017|08:28|71|10|false|true
+@Jupiter_Hadley @JanDavidHassel For me it's the structures time/external excuse that would help me. "Just finish it" isn't going to win out against a packed life. 08/06/2017|07:36|3|0|false|false
+Is there an annual "finish your abandoned/incomplete game jam games" game jam? 08/05/2017|23:39|340|60|false|false
+RT @vectorpoem: If you interview at Google and fail their ridiculous whiteboard tests, console yourself in knowing that this asinine worldv… 08/05/2017|23:38|0|51|true|false
+@bashfulcoward @Papapishu In the mind all those things happen in one moment, one snap decision. It's just the doing of them that have to unspool linearly. 08/05/2017|03:38|1|0|false|false
+@lexie_con_ @AerialShading We talked about you and our parents and memes so I think we really covered it all 100%. 08/05/2017|03:36|2|0|false|false
+@AerialShading @lexie_con_ You really pulled it off. It was great. 08/05/2017|03:34|3|0|false|false
+@AerialShading Hi happy to meet you after liking this image a few days ago or whenever! 08/05/2017|03:33|2|0|false|false
+@lexie_con_ I encountered important content tonight that I think is related to you. Sorry again that our parents are weirdos. https://t.co/sUIrN668I0 08/05/2017|03:27|7|0|false|true
+RT @magiciansbook: Adventures in gaming https://t.co/cNiuypsUes 08/04/2017|16:42|0|5|true|true
+@joonaslinkola @ollymoss @nickbreckon [pushes glasses up nose] Park tours and video phones ran on Macintoshes. 08/04/2017|15:41|2|0|false|false
+RT @Bandcamp: On Friday, we will donate 100% of our share of the proceeds from sales to @TransLawCenter #TransRightsAreHumanRights https://… 08/04/2017|15:38|0|5928|true|false
+RT @lilynishita: Super excited to announce my #Toots! Kickstarter is live! Making some goofy (tooty) stuff over here ?
+
+https://t.co/FnmzAU… 08/04/2017|14:37|0|70|true|true
+RT @CorySchmitz: If you can, buy some music on Bandcamp today; all proceeds go to @TransLawCenter!! (If you need recommendations ? https://… 08/04/2017|14:30|0|6|true|false
+@TimLanning @ollymoss @nickbreckon We only recorded one and you can see it in the wizard jam stream here: https://t.co/JiJVmYfbUC 08/04/2017|12:53|0|0|false|true
+@ollymoss @nickbreckon  https://t.co/koLpKhBnEd 08/04/2017|12:44|14|0|false|true
+@ollymoss @nickbreckon (Never put in the ability to complete objectives or win - the tour vehicle always just ran off the top of the monitor, but it looked nice!) https://t.co/c5VoiwNTz4 08/04/2017|12:43|20|0|false|true
+@fredrick_med_ck @ollymoss @nickbreckon Yeah it was a desktop simulator. It controlled in first person from that seat. Your reticule is the mouse cursor. 08/04/2017|12:24|1|0|false|false
+@yozetty @ollymoss @nickbreckon lol it was that it was part of a two week joke game jam for Idle Thumbs (based on the episode "Build The Nublar") Just fully ran out of time 08/04/2017|12:24|0|0|false|false
+@ollymoss @nickbreckon Olly did the environment art, Nick and I "designed" the game, I did the 2D & UI & shitty FSM scripting, Nick starred in the FMV sequences. 08/04/2017|12:21|12|0|false|false
+A jam game I never finished, with @ollymoss and @nickbreckon: A Jurassic Park Pipe Dream clone where you build park tours with stolen warez. https://t.co/2PJYLSylDo 08/04/2017|12:20|218|31|false|true
+RT @ollymoss: Oh hey I did this. https://t.co/2b2y849Oz9 08/04/2017|11:49|0|92|true|true
+@IconArchitect10 How are you doing? 08/04/2017|04:01|1|0|false|false
+@ICF_19XX @peaksrewatch Oh thats a bummer. I tried listening in Apple Podcasts and Downcast just now, both as a download and a stream, and the quality seemed ok? :/ 08/03/2017|20:53|1|0|false|false
+@ICF_19XX @peaksrewatch In what way is it messed up? 08/03/2017|20:38|2|0|false|false
+RT @asym: ICYMI: West of Loathing is coming out NEXT WEEK.
+
+https://t.co/Hty6rRrBds https://t.co/b9Uid2Z9Ad 08/03/2017|20:35|0|34|true|true
+@mynameis_shoe Right now it looks like its Windows, Mac, Xbox One. 08/03/2017|17:12|0|0|false|false
+@koalaparty I'm glad you're alive and were able to ship these weirdly shaped rooms that give unusual visibility into other rooms. 08/03/2017|17:06|3|0|false|false
+@vanaman that this tweet isn't immediately blowing up is a crime. 08/03/2017|17:04|1|0|false|false
+Tacoma's level shapes are funky and unique and I like the feeling of wandering its weird halls a lot. https://t.co/enUjj4dLjk 08/03/2017|17:04|17|4|false|true
+RT @vanaman: https://t.co/kuqKpkNaki 08/03/2017|16:59|0|22|true|true
+@mistertodd Do they do the checkerboard thing? That's Sony-recommended and I think the PS4 Pro has specific hardware to help facilitate it. 08/03/2017|11:40|0|0|false|false
+@KarelOsoha I lifted it from when Cooper disappears from his chair in the black and white opening of S3 ep 1. 08/03/2017|10:44|1|0|false|false
+@subsketch @chrisremo Listen to the first couple minutes of this week's episode for more on that: https://t.co/KrLsNdkaRW 08/03/2017|04:15|1|0|false|true
+When you're half way through recording your Twin Peaks podcast and the video capture PC dies, you have to make the best of it. https://t.co/sY0QvOC9X4 08/03/2017|03:21|302|47|false|true
+RT @bburbank: it's not surprising but tacoma is extremely good https://t.co/Sv6c27MSjt 08/03/2017|02:37|0|14|true|true
+@Qualiitybeats @fullbright @idlethumbs PACE ASSHOLE is the guy who brings the salsa made in New York City. 08/03/2017|00:40|35|1|false|false
+@TeddyDief Sorry not a gif but a classic all the same https://t.co/pvQlQfL8mp 08/02/2017|22:54|4|1|false|true
+@stevenf [Follows a second time] 08/02/2017|22:07|3|0|false|false
+@austin_walker @importantcast It's in next weeks episode! 08/02/2017|21:06|15|0|false|false
+RT @AerialShading: In case anyone wasn't aware, snapchat has a QR reader in the camera if you want to read the codes in @TacomaGame 08/02/2017|19:04|0|3|true|false
+RT @JanSchaser: Trick shot @TacomaGame https://t.co/x2KSVNwewl 08/02/2017|19:04|0|15|true|true
+@stevenf Wow that one looks great! //c is such a nice looking computer. My grandparents had one and I coveted it. 08/02/2017|18:11|0|0|false|false
+RT @textfiles: Here's a party - 210mb of Hypercard Stacks that were selected as winners by MacWorld in 1989. https://t.co/RYJ8g6jCsf https:… 08/02/2017|14:35|0|41|true|true
+RT @Pentadact: Thank God Fullbright finally saw sense and put mindless violence in Tacoma. https://t.co/mIgq2XGorz 08/02/2017|13:11|0|8|true|true
+RT @ollymoss: I did a teeny tiny little bit of work that you can find in Tacoma, which is a very good game you can buy tomorrow. 08/02/2017|10:58|0|5|true|false
+RT @justinhendrix: Secretary of State is refusing to spend his budget for countering Russian propaganda because it might upset Russia https… 08/02/2017|10:35|0|4865|true|false
+end
