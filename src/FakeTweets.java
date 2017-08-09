@@ -1,3 +1,5 @@
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintStream;
@@ -16,7 +18,7 @@ import twitter4j.TwitterFactory;
 import twitter4j.User;
 
 public class FakeTweets {
-	protected static List<String> tweets = new ArrayList<>();
+	protected static List<Tweet> tweets = new ArrayList<>();
 	protected static String userName;
 	protected static String tempFile;
 	private static Date createdate;
@@ -30,23 +32,35 @@ public class FakeTweets {
 		//The following will be used to check custom accounts...
 		System.out.println("Welcome to FakeTweets! Please enter the account you'd like to examine:");
 		userName = scan.nextLine();
-		//userName = "congressedits";
+		scan.close();
 		fetchUserTweets(userName, 100);
-		DateFormat df = new SimpleDateFormat("MM/dd/yyyy");		
-		System.out.println(userName);
-		System.out.println(df.format(createdate));
-		System.out.println("followers: ");
-		System.out.println(followersCount);
-		System.out.println("following: ");
-		System.out.println(followingCount);
-		for(String tweet : tweets) {
-			System.out.println(tweet);
+		exportTweets();
+		//processTweets();
+
+	}
+
+	private static void exportTweets() {
+		PrintStream out;
+		try {
+			out = new PrintStream(new FileOutputStream("temp" + File.separator + userName +"_tweets.txt"));
+			out.println("Number of tweets = " + tweets.size());
+			DateFormat df = new SimpleDateFormat("MM/dd/yyyy|HH:mm");		
+			for (Tweet t : tweets) {
+				out.println(t.text+" "+df.format(t.date).toString()+"|"+t.numLikes+"|"+t.numRetweets+"|"+t.isRetweet+"|"+t.containsLink);
+			}
+			out.println("end");
+
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
-		
-		//tweets.add("sdf dsfdfwerferyr dfgkghgscvcb vbdfhrtrfzx sdf wercb rytuuou fdfbcb");
-		//tweets.add("Explainer: What is artificial intelligence? https://t.co/ztrO8KRX6g via @abcnews #AI");
-		System.out.println(LevDistance.getAvgDistance(tweets));
-		
+
+
+	}
+
+	private static void processTweets() {
+		// TODO Auto-generated method stub
+
 
 	}
 
@@ -61,10 +75,16 @@ public class FakeTweets {
 			Paging page = new Paging(1, Constants.PAGE_SIZE);
 			for (int p = 1; p <= Math.ceil((double) numTweets / Constants.PAGE_SIZE); p++) {
 				page.setPage(p);
-				for (Status status : Constants.TWITTER.getUserTimeline(userName, page))
-					tweets.add(status.getText());
+				for (Status status : Constants.TWITTER.getUserTimeline(userName, page)) {
+					Tweet temp = new Tweet(status.getText());
+					temp.date = status.getCreatedAt();
+					temp.numLikes = status.getFavoriteCount();
+					temp.numRetweets = status.getRetweetCount();
+					temp.isRetweet = status.isRetweet();
+					temp.containsLink = temp.text.contains("https://t.co/");
+					tweets.add(temp);
+				}
 			}     
-			int numberTweets = tweets.size();			
 		}
 		catch (TwitterException e) {
 			System.out.println("Unable to retrieve tweets from Twitter for " + userName + " at this time.");
